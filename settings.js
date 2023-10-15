@@ -11,14 +11,14 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤I am alive now😇 and dead atvthe same time
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true//auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoReadGc = true//auto reading in gc (true to on, false to off)
+global.autoRecord = true//auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -29,14 +29,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+254716637803'] // owner number
-global.ownername = "kingpinali" // owner name
+global.vcardowner = ['+254752948540'] // owner number
+global.ownername = "𓃰G̳̿͟͞E̳̿͟͞E̳̿͟͞𓀛" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.socialm = "IG:gee.mkuu"// github or insta name
+global.location = "Nairobi, next to you" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://ibb.co/n1jWw28` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -47,34 +47,34 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+254716637803']
-global.ownertag = '+254716637803' //your tag number
-global.botname = 'chill - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['+254752948540']
+global.ownertag = '+254752948540' //your tag number
+global.botname = '亗『ＧＥＥ』亗' //ur bot name
+global.packname = "╰┈⫸ｇｅｅ⫷┈┈╯ sticker" // sticker packname
+global.author = "𓃰G̳̿͟͞E̳̿͟͞E̳̿͟͞𓀛" // sticker author
+global.dragonemoji = '😂' // Menu emoji
+global.footer = '[ ◉ 亗『ＧＥＥ』亗]' //
 
 //database
-global.premium = ['+254716637803'] //ur premium numbers
+global.premium = ['+254752948540'] //ur premium numbers
 
 //other
-global.sessionName = 'session'
+global.sessionName = 'creds3'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
+    admin: 'you aint no admin , useless',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈Pleas Wait..or die waiting.',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'Where is the link?',
+    linkm: 'stop joking around,where is the link?',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
     badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
